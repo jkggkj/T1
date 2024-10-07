@@ -12,4 +12,3 @@ Android版本： 推荐：9.0(29) 最低：4.4(19)
 2、连接手机，运行项目。
 
 
-转自 https://github.com/huanfenz/huanfenzRead4p2
